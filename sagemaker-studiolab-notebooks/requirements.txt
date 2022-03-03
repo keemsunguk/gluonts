@@ -1,0 +1,8 @@
+
+ipywidgets
+matplotlib
+ujson
+pathlib
+#mxnet
+mxnet-cu112
+gluonts
